@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://foodies-backend-production-2bee.up.railway.app/'
+export const url = 'https://foodies-backend-production-2bee.up.railway.app'
